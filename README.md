@@ -1,7 +1,8 @@
-<h1 align="center">🎲Rock Paper Scissors 🎲</h1>
+
+<h1 align="center">🎤 Voice Recognizer 🎤</h1>
 
 
-> This is a Rock Paper Scissors Game
+> This is a Voice Recognition App
 ### 🏠 [Homepage](https://github.com/Mahich123/Python_VoiceRecognition)
 
 
@@ -33,3 +34,6 @@
 Give a ⭐️ if this project helped you!
 
 ***
+
+
+
